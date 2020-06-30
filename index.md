@@ -9,3 +9,6 @@ Dilbert is a fictional character and the main character and protagonist of the c
 * powerless
 
 > Ein Mensch hätte in dieser Situation ein schlechtes Gewissen.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/0/00/Dilbert_%28character%29.png" />
+
