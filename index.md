@@ -8,3 +8,4 @@ Dilbert is a fictional character and the main character and protagonist of the c
 * frustrated
 * powerless
 
+> Ein Mensch hätte in dieser Situation ein schlechtes Gewissen.
